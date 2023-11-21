@@ -1,3 +1,5 @@
+//ejercicio 1
+
 const title = "Hello Javascript"
 const titleSection = document.getElementById('title')
 
@@ -10,3 +12,9 @@ function printTitle() {
 printTitle()
 
 console.log('conected')
+
+
+
+
+
+
